@@ -16,7 +16,7 @@ connectDB();
 
 app.use(
   cors({
-    origin: "https://flames-social-media-app-2.onrender.com/",
+    origin: "https://flames-social-media-app-2.onrender.com",
     credentials: true,
   })
 );
